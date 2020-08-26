@@ -1,0 +1,1 @@
+# dummy npm vm package to mock a broken dependency in jsonpath-plus

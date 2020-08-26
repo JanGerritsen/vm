@@ -1,0 +1,21 @@
+{
+  "name": "vm",
+  "version": "0.0.1",
+  "description": "dummy npm vm package to mock a broken dependency in jsonpath-plus",
+  "homepage": "https://github.com/JanGerritsen/vm",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Jan Gerritsen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanGerritsen/vm.git"
+  }
+}
